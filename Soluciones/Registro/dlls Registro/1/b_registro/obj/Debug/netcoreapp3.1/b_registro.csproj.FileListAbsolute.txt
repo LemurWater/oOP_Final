@@ -1,0 +1,10 @@
+X:\=Projects GitHub\U\U_oOP\oOP Final\oOP_Final\Soluciones\Lector de registro\Solucion\b_registro\bin\Debug\netcoreapp3.1\b_registro.deps.json
+X:\=Projects GitHub\U\U_oOP\oOP Final\oOP_Final\Soluciones\Lector de registro\Solucion\b_registro\bin\Debug\netcoreapp3.1\b_registro.dll
+X:\=Projects GitHub\U\U_oOP\oOP Final\oOP_Final\Soluciones\Lector de registro\Solucion\b_registro\bin\Debug\netcoreapp3.1\b_registro.pdb
+X:\=Projects GitHub\U\U_oOP\oOP Final\oOP_Final\Soluciones\Lector de registro\Solucion\b_registro\obj\Debug\netcoreapp3.1\b_registro.csproj.AssemblyReference.cache
+X:\=Projects GitHub\U\U_oOP\oOP Final\oOP_Final\Soluciones\Lector de registro\Solucion\b_registro\obj\Debug\netcoreapp3.1\b_registro.GeneratedMSBuildEditorConfig.editorconfig
+X:\=Projects GitHub\U\U_oOP\oOP Final\oOP_Final\Soluciones\Lector de registro\Solucion\b_registro\obj\Debug\netcoreapp3.1\b_registro.AssemblyInfoInputs.cache
+X:\=Projects GitHub\U\U_oOP\oOP Final\oOP_Final\Soluciones\Lector de registro\Solucion\b_registro\obj\Debug\netcoreapp3.1\b_registro.AssemblyInfo.cs
+X:\=Projects GitHub\U\U_oOP\oOP Final\oOP_Final\Soluciones\Lector de registro\Solucion\b_registro\obj\Debug\netcoreapp3.1\b_registro.csproj.CoreCompileInputs.cache
+X:\=Projects GitHub\U\U_oOP\oOP Final\oOP_Final\Soluciones\Lector de registro\Solucion\b_registro\obj\Debug\netcoreapp3.1\b_registro.dll
+X:\=Projects GitHub\U\U_oOP\oOP Final\oOP_Final\Soluciones\Lector de registro\Solucion\b_registro\obj\Debug\netcoreapp3.1\b_registro.pdb
