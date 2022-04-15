@@ -1,0 +1,16 @@
+prueba®
+.
+Fecha - Accion - Colegio - Rol - Nombre = [Notas]
+------------------------------------------------
+.
+2222/22/2 2:2:22 - Inicio Sesion - Santa Maria - Estudiante - Andres Arvelaez
+2222/22/2 2:2:23 - Salir - Santa Maria - Estudiante - Andres Arvelaez
+2222/22/2 2:2:24 - Agregar Usuario - Santa Cecilia - Rector - Andres Arvelaez = [Agregado Administrador tal tal]
+2222/22/2 2:2:25 - Eliminar Usuario - Santa Cecilia - Administrador - taltal = [Eliminado estidiante Andres Arvelaez]
+------------------------------------------------
+2222/22/3 2:2:22 - Eliminar Usuario - Santa Cecilia - Administrador - tal tal = [Eliminado estidiante Antonio]
+2222/22/3 2:2:23 - Eliminar Usuario - Santa Cecilia - Administrador - tal tal = [Eliminado estidiante B]
+2222/22/3 2:2:24 - Eliminar Usuario - Santa Cecilia - Administrador - tal tal = [Eliminado estidiante Camila]
+2222/22/3 2:2:25 - Eliminar Usuario - Santa Cecilia - Administrador - tal tal = [Eliminado estidiante Daniel]
+------------------------------------------------
+2222/22/4 2:2:22 - Eliminar Usuario - Santa Cecilia - Administrador - tal tal
