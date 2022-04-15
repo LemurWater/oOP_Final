@@ -2,18 +2,18 @@ prueba®
 --------------------------------------------
 Preferencias:
 --------------------------------------------
-Idioma:
-	Idioma = Espanol
+	Idioma:
+		Idioma = Espanol
 --------------------------------------------
-Tamano de texto:
-	Tamano de texto = mediano
+	Tamano de texto:
+		Tamano de texto = mediano
 --------------------------------------------
-GUI:
-	Usar temas = Si
-	Usar Color = Si
+	GUI:
+		Usar temas = Si
+		Usar Color = Si
 --------------------------------------------
-Temas:
+	Temas:
 
-Color de fondo = 255,255,255
-Imagen de fondo = "Nombre.png"
+		Color de fondo = 255,255,255
+		Imagen de fondo = "Nombre.png"
 --------------------------------------------
