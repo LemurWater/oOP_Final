@@ -1,9 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\Alice\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Alice\\.nuget\\packages",
-      "O:\\Program Files (x69)\\Visual Studio\\Shared\\NuGetPackages"
-    ]
-  }
-}

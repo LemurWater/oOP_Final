@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{70C7A68C-1E16-42D2-B4EA-D82B3796020A}</ProjectGuid>
+    <ProjectGuid>{56C89DEB-EFBA-4F01-97CA-6A7484C14C83}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>p_colegio</RootNamespace>
     <AssemblyName>p_colegio</AssemblyName>
@@ -35,8 +35,6 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Drawing" />
-    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -45,35 +43,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Forms\F_Acceso.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Forms\F_Acceso.Designer.cs">
-      <DependentUpon>F_Acceso.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Forms\F_Informacion.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Forms\F_Informacion.Designer.cs">
-      <DependentUpon>F_Informacion.cs</DependentUpon>
-    </Compile>
+    <Compile Include="Clases\Abstractas\CargarTXT.cs" />
+    <Compile Include="Clases\Asignatura.cs" />
+    <Compile Include="Clases\Colegio.cs" />
+    <Compile Include="Clases\Evaluacion.cs" />
+    <Compile Include="Clases\Herencia\Docente.cs" />
+    <Compile Include="Clases\Herencia\Estudiante.cs" />
+    <Compile Include="Clases\Herencia\Integrante.cs" />
+    <Compile Include="Clases\Herencia\Posgrado.cs" />
+    <Compile Include="Clases\Herencia\Pregrado.cs" />
+    <Compile Include="Clases\HistoriaAcademica.cs" />
+    <Compile Include="Interfaces\IEstudiante.cs" />
+    <Compile Include="Interfaces\IIntegrante.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Archivos\" />
-    <Folder Include="Clases\" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Forms\F_Acceso.resx">
-      <DependentUpon>F_Acceso.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Forms\F_Informacion.resx">
-      <DependentUpon>F_Informacion.cs</DependentUpon>
-    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
